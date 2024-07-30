@@ -1,3 +1,5 @@
 .vscode
 build_and_run_tests.sh
+tests_cads.c
 tests_output
+tmp.c
